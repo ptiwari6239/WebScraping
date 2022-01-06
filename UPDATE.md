@@ -1,0 +1,3 @@
+Now get latest news notifition from time of india website 
+using plyer to get notification in windows 
+And BeautifulSoup4 and request library for web scraping the times of india website ..... 
